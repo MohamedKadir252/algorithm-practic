@@ -3,9 +3,8 @@
 This repository contains solutions to various algorithmic problems in Python.  
 
 ## 📌 Topics Covered  
-✅ **Sorting & Searching** (Quick Sort, Merge Sort, Binary Search)  
-✅ **Dynamic Programming** (Fibonacci, Knapsack Problem)  
-✅ **String Manipulation** (Palindromes, Encoding/Decoding)  
+✅ **Sorting & Searching** (Quick Sort)  
+
 
 ## 📥 Usage  
 Clone the repository and run a script:  
