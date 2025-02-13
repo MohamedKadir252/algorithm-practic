@@ -3,9 +3,11 @@
 This repository contains solutions to various algorithmic problems in Python.  
 
 ## 📌 Topics Covered  
-✅ **Sorting & Searching** (Quick Sort, Merge Sort, Binary Search)  
-✅ **Dynamic Programming** (Fibonacci, Knapsack Problem)  
-✅ **String Manipulation** (Palindromes, Encoding/Decoding)
+✅ **Sorting Algorithms**: Quick Sort, Merge Sort  
+✅ **Searching Algorithms**: Binary Search  
+✅ **Dynamic Programming**: Fibonacci Sequence, Knapsack Problem  
+✅ **Data Structures**: Linked List, Stack (LIFO), Queue (FIFO)  
+
 
 ## 📂 Project Structure
 algorithm-practice/
