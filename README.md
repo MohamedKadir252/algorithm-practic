@@ -29,11 +29,12 @@ Clone the repository and run a script:
 ```bash
 git clone https://github.com/MohamedKadir252/algorithm-practice.git  
 cd algorithm-practice/sorting  
-python quick_sort.py  
+python quick_sort.py 
+```
 
 
-🤝 Contributions
+## 🤝 Contributions
 Feel free to contribute by adding new algorithms or improving existing implementations.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
